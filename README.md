@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <h1>你好，我是 [你的名字]</h1>
+    <h1>你好，我是 xiang</h1>
     <img src="myphoto.jpg" alt="我的個人照">
     <p>歡迎來到我的個人網頁！</p>
 </body>
